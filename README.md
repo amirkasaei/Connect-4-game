@@ -3,7 +3,7 @@
 ## Description
 **Project name: Connect 4 Game using Negamax Algorithm**
 
-- The game is immplemented in Single player mode.
+- The game is implemented in Single player mode.
 - The AI Agent uses Negated Max (Negamax) Algorithm
 - In summary, the Negamax algorithm placed the minimum value of child nodes in one step and the maximum value of these values as the value of the parent node in the next step.
 
